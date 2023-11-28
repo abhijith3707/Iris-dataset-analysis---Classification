@@ -12,10 +12,16 @@ Attribute Information:-
 5.	species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 Libraries
+
+
 •	pandas
+
 •	matplotlib
+
 •	seaborn
+
 •	scikit-learn
+
 
 Algorithms
 •	Logistic Regression
