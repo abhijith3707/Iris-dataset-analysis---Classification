@@ -24,8 +24,14 @@ Libraries
 
 
 Algorithms
+
 •	Logistic Regression
+
 •	K-Nearest Neighbors
+
 •	Decision Tree
+
+
+
 
 Best Model Accuracy: 100.00
